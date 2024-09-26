@@ -1,10 +1,14 @@
 ## Hi there 👋, You stumbled onto the official repository of Electroscience!
-Electronic and Electrical Engineer, Computer Science and Data Engineering.
+
+<div style="text-align: center; font-weight: bold;">
+  My projects related to Electronics, Electrical Engineering, Computer Science, Data Analysis and Data Engineering.
+</div>
+
 
 ## 📡 Contact me:
 
 <a href="https://www.linkedin.com/in/karol-wilhelm-niewitecki-0385492b7/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" style="width: 7%; margin: 0 50px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" style="width: 5%; margin: 0 50px;">
 </a>
 
 ## ⚡ My skills:

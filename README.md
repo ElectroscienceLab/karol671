@@ -1,6 +1,19 @@
 ## Hi there 👋, You stumbled onto the official repository of Electroscience
 Electronic and Electrical Engineer, Computer Science and everything related to Data.
 
+## 📡 Contact me:
+!Linkedin
+
+## ⚡ My skills:
+!Python
+!Linux
+!MatLab
+!SQL
+!Apache Spark
+!Bash
+
+
+
 <!--
 **karol671/karol671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

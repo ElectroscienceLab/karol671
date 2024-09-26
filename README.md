@@ -7,7 +7,7 @@ Electronic and Electrical Engineer, Computer Science and everything related to D
 ## ⚡ My skills:
 !Python
 !Linux
-![MATLAB](https://img.shields.io/badge/MATLAB-Supported-red)
+![MATLAB]( https://img.shields.io/badge/-red?logo=matlab)
 !SQL
 !Apache Spark
 !Bash
